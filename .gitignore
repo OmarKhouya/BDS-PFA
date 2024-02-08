@@ -1,0 +1,9 @@
+# Ignore compiled and minified JS files
+/BDS-PFA/public/js/bootstrap.bundle.min.js
+
+# Ignore compiled and minified CSS files
+/BDS-PFA/public/css/all.min.css
+/BDS-PFA/public/css/bootstrap.min.css
+
+# Ignore fontawesome directory
+/BDS-PFA/public/fonts/fontawesome-6.3.0/
