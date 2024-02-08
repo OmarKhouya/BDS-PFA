@@ -25,9 +25,9 @@ Follow these instructions to set up and run the BDS project locally.
 - Web server (e.g., Apache, Nginx)
 - PHP and a database system installed on your server.
 
-### Installation
+### installation 
 
-Clone the repository:
+- Clone the repository:
 
    ```bash
    git clone https://github.com/OmarKhouya/BDS-PFA.git
